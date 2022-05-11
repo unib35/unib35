@@ -1,6 +1,6 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-<p align="center">
+//<p align="center">
 <img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 </br>
