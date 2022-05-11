@@ -4,8 +4,9 @@
 <img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 </br>
-### Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=unib35)](https://solved.ac/unib35)
+
+### Algorithm study in Baekjoon Online Judge
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmsong111)](https://solved.ac/cmsong111)
 
 <!--
 **unib35/unib35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
