@@ -1,7 +1,7 @@
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 
 
-### language
+## language
 <img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 </br>
