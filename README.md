@@ -6,10 +6,10 @@
 ### Studying
 * Language  
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 * Libary  
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/></a>
 </br>
 
 ### Visited
