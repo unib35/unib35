@@ -5,7 +5,7 @@
 
 ### Studying
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/python-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/python-#3776ABstyle=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 
 </br>
 
