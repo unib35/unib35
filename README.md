@@ -51,6 +51,16 @@
 
 [![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=unib35&layout=compact&count_private=true)](https://wakatime.com/@leejongmin) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unib35&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
 
+ <!--START_SECTION:waka-->
+LOCALE: "ko"
+SHOW_LINES_OF_CODE: "True"
+SHOW_PROFILE_VIEWS: "False"
+SHOW_DAYS_OF_WEEK: "False"
+SHOW_SHORT_INFO: "False"
+SHOW_LOC_CHART: "False"
+SHOW_PROJECTS: "False"
+SHOW_LANGUAGE_PER_REPO: "False"
+<!--END_SECTION:waka-->
 
 
 </div>
