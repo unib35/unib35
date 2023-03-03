@@ -2,12 +2,13 @@
 
 <div align="left">
 
-## 안녕하세요! 동의대학교 컴퓨터소프트웨어공학과 이종민
+## 동의대학교 컴퓨터소프트웨어공학과 이종민
 
----
+
 
 
 # 개발 언어
+---
 
 ### Now I'm Studying..
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
