@@ -42,7 +42,7 @@
 
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmsong111&show_icons=true&count_private=true)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=unib35)](https://solved.ac/unib35)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unib35&show_icons=true&count_private=true)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=unib35)](https://solved.ac/unib35)
 
 
 
