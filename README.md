@@ -49,7 +49,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/25e90388-dfc5-4ea1-927f-a7318fdc2eff.svg)](https://wakatime.com/@25e90388-dfc5-4ea1-927f-a7318fdc2eff)
 
-[![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=namju&layout=compact&count_private=true)](https://wakatime.com/@Namju) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmsong111&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
+[![willianrod 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=namju&layout=compact&count_private=true)](https://wakatime.com/@leejongmin) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unib35&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
