@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=unib35&fontSize=90&animation=fadeIn&fontAlignY=38&desc=이종민&descAlignY=55&descAlign=73)
 
 <div align="left">
----
 
-## 동의대학교 컴퓨터소프트웨어공학과 이종민
-
+### 동의대학교 컴퓨터소프트웨어공학과 이종민
 
 
 
