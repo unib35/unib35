@@ -24,5 +24,4 @@
 ---
 
 ### Contact  
-📧 Email: (jm.jongminlee@gmail.com)
-📱 [Portfolio] (준비중입니다!!)
+📧 Email: jm.jongminlee@gmail.com
