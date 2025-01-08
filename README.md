@@ -24,5 +24,5 @@
 ---
 
 #### Contact  
-📧 Email: unib35@example.com  
-📱 [Portfolio](https://your-portfolio-link.com)
+📧 Email: jm.jongminlee@gmail.com
+📱 [Portfolio] 준비중입니다!!
