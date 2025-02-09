@@ -24,4 +24,4 @@
 ---
 
 ### Contact  
-📧 Email: jm.jongminlee@gmail.com / unib335@naver.com
+📧 Email: jm.jongminlee@gmail.com / unib335@naver.com 
