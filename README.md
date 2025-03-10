@@ -23,5 +23,7 @@
 
 ---
 
-### Contact  
-📧 Email: jm.jongminlee@gmail.com / unib335@naver.com 
+### 📫Contact  
+[![Gmail](https://img.shields.io/badge/Gmail-jm.jongminlee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jm.jongminlee@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-unib335@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:unib335@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-unib35-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unib35)
