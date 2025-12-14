@@ -27,9 +27,9 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=unib35&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=888888)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unib35&theme=graywhite&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=unib35&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=unib35&theme=onestar&no-frame=true&column=4&margin-w=10)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unib35&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000)
 
