@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iGHsxw9eL79fA/giphy.gif" width="600" style="border-radius: 8px; filter: grayscale(100%);" alt="Mobile Dev GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3QyZnF4eXJ2ZnF4eXJ2ZnF4eXJ2ZnF4eXJ2ZnF4eXJ2ZnF4eXJ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33ai01UfRKadO/giphy.gif" width="600" style="border-radius: 8px; filter: grayscale(100%);" alt="Coding GIF"/>
 </div>
 
 <br/>
@@ -69,7 +69,7 @@
 <div align="center">
   <h3 style="font-family: monospace;">CONTRIBUTION STREAM</h3>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[본인의_깃허브_ID]&theme=dark&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&stroke=ffffff&border=e5e7eb&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unib35&theme=dark&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&stroke=ffffff&border=e5e7eb&hide_border=true" alt="Streak Stats" />
   
   <br/><br/>
   
