@@ -1,32 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=unib35&fontSize=80&animation=fadeIn)
+## 이종민 (unib35)
 
-## 이종민 | Computer Software Engineering  
-**Studying to become a better developer every day.**
+**Indie Developer** · Vibe Coder · SaaS Builder
 
----
-
-### **Languages & Tools**
-![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-%2361DAFB.svg?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+문제를 발견하고, 해결하고, 제품으로 만듭니다.
 
 ---
 
-### **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unib35&show_icons=true&count_private=true&theme=radical)
+### Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 ---
 
-### **Solved.ac Profile**
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=unib35)](https://solved.ac/unib35)
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unib35&show_icons=true&count_private=true&theme=default&hide_border=true)
 
 ---
 
-### 📫Contact  
-[![Gmail](https://img.shields.io/badge/Gmail-jm.jongminlee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jm.jongminlee@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-unib335@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:unib335@naver.com)
-[![GitHub](https://img.shields.io/badge/GitHub-unib35-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unib35)
+### Contact
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer)
+[![Email](https://img.shields.io/badge/Email-jm.jongminlee@gmail.com-000000?style=flat-square)](mailto:jm.jongminlee@gmail.com)
