@@ -4,9 +4,9 @@
 
 ## 이종민 (unib35)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pretendard&weight=500&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Indie+Developer+%C2%B7+Vibe+Coder+%C2%B7+SaaS+Builder;%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EB%B0%9C%EA%B2%AC%ED%95%98%EA%B3%A0%2C+%ED%95%B4%EA%B2%B0%ED%95%98%EA%B3%A0%2C+%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Indie+Developer+%C2%B7+Vibe+Coder+%C2%B7+SaaS+Builder;%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EB%B0%9C%EA%B2%AC%ED%95%98%EA%B3%A0%2C+%ED%95%B4%EA%B2%B0%ED%95%98%EA%B3%A0%2C+%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funib35&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true)
+![visitors](https://komarev.com/ghpvc/?username=unib35&style=flat-square&color=black)
 
 </div>
 
