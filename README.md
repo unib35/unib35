@@ -23,11 +23,17 @@
 
 ---
 
-### GitHub Stats
+### GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unib35&show_icons=true&count_private=true&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=unib35&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=888888)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=unib35&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unib35&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=unib35&theme=github-light&hide_border=true&area=true&area_color=000000&line=000000&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unib35/unib35/output/github-snake-dark.svg" />
