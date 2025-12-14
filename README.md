@@ -76,10 +76,6 @@
   </table>
   
   <br/>
-  
-  <a href="https://github.com/unib35">
-    <img src="https://streak-stats.demolab.com/?user=unib35&theme=default&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&stroke=ffffff&border=e5e7eb&hide_border=true" alt="Streak Stats" />
-  </a>
 </div>
 
 <br/>
