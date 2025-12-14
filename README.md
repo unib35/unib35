@@ -23,15 +23,9 @@
 
 ---
 
-### GitHub
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unib35&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unib35&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=unib35&theme=github-light&hide_border=true&area=true&area_color=000000&line=000000&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+> *"Build solutions, not just code."*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unib35/unib35/output/github-snake-dark.svg" />
