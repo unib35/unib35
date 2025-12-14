@@ -23,6 +23,14 @@
 
 ---
 
+### Projects
+
+[![AcaDesk](https://img.shields.io/badge/AcaDesk-학원%20관리%20SaaS-000000?style=for-the-badge)](https://github.com/AcaDesk/acadesk-legacy)
+[![CineHive](https://img.shields.io/badge/CineHive-콘텐츠%20추천%20앱-000000?style=for-the-badge)](https://github.com/unib35/CineHive-App)
+[![AgendaBot](https://img.shields.io/badge/AgendaBot-Discord%20AI%20봇-000000?style=for-the-badge)](https://github.com/unib35/AgendaBot-Discord)
+
+---
+
 <div align="center">
 
 > *"Build solutions, not just code."*
