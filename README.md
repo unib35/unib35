@@ -25,9 +25,13 @@
 
 ### Projects
 
-[![AcaDesk](https://img.shields.io/badge/AcaDesk-학원%20관리%20SaaS-000000?style=for-the-badge)](https://github.com/AcaDesk/acadesk-legacy)
-[![CineHive](https://img.shields.io/badge/CineHive-콘텐츠%20추천%20앱-000000?style=for-the-badge)](https://github.com/unib35/CineHive-App)
-[![AgendaBot](https://img.shields.io/badge/AgendaBot-Discord%20AI%20봇-000000?style=for-the-badge)](https://github.com/unib35/AgendaBot-Discord)
+<div align="center">
+
+[![AcaDesk](https://github-readme-stats.vercel.app/api/pin/?username=AcaDesk&repo=acadesk-legacy&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=000000)](https://github.com/AcaDesk/acadesk-legacy)
+[![CineHive](https://github-readme-stats.vercel.app/api/pin/?username=unib35&repo=CineHive-App&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=000000)](https://github.com/unib35/CineHive-App)
+[![AgendaBot](https://github-readme-stats.vercel.app/api/pin/?username=unib35&repo=AgendaBot-Discord&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=000000)](https://github.com/unib35/AgendaBot-Discord)
+
+</div>
 
 ---
 
