@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=The%20Vibe%20Coder&fontSize=60&fontColor=ffffff&fontAlign=50&animation=fadeIn" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=AI%20Native%20Engineer&fontSize=60&fontColor=ffffff&fontAlign=50&animation=fadeIn" alt="Header" width="100%"/>
   
   <br/>
   
@@ -78,13 +78,6 @@
   <br/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" style="filter: invert(1) grayscale(100%);" />
-</div>
-
-<br/>
 <hr style="border: 1px solid #E5E5E5;" />
 <p align="center" style="font-size: 0.8rem; color: #888888;">
   © 2025 Designed with Minimalist Principles.
