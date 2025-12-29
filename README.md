@@ -85,7 +85,3 @@
 </div>
 
 <br/>
-<hr style="border: 1px solid #E5E5E5;" />
-<p align="center" style="font-size: 0.8rem; color: #888888;">
-  © 2025 Designed with Minimalist Principles.
-</p>
