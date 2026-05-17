@@ -64,23 +64,6 @@
 <br/>
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=unib35&show_icons=true&bg_color=ffffff&text_color=171717&title_color=000000&icon_color=000000&border_color=e5e7eb&hide_border=false&cache_seconds=86400" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unib35&layout=compact&bg_color=ffffff&text_color=171717&title_color=000000&border_color=e5e7eb&hide_border=false&langs_count=6&cache_seconds=86400" alt="Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/unib35/unib35/output/github-snake.svg" alt="snake animation" width="100%" />
 </div>
 
